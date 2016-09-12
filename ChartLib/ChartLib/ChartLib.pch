@@ -1,0 +1,33 @@
+//  ChartLib.pch
+//  ChartLib
+//
+//  Created by BaHCy on 16/4/28.
+//  Copyright © 2016年 BaHCy. All rights reserved.
+//
+
+#ifndef ChartLib_pch
+#define ChartLib_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#ifdef __OBJC__
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+#import "ISSChartConsts.h"
+#import "CommonFunction.h"
+#import "ISSChartColorUtil.h"
+#import "ISSChartUtil.h"
+#import "ISSChatGallery.h"
+#import "ITTCommonMacros.h"
+#import "ITTDebug.h"
+#import "Manager.h"
+#import "UIView+ITTAdditions.h"
+#import "UIFont+ITTAdditions.h"
+#import "UIDevice+ITTAdditions.h"
+#import "UIColor-Expanded.h"
+#import "NSString+ITTAdditions.h"
+#import "CONSTS.h"
+#endif
+
+#endif /* ChartLib_pch */

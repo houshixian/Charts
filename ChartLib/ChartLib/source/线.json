@@ -1,0 +1,71 @@
+{
+    "result": {
+        "code": "0"
+    },
+    "data": {
+        "chart_datas": {
+                        "chart_name": "比较分析",
+                        "type": "0",
+                        "font_size": "6px",
+                        "font_style": "宋体",
+                        "font_color": "black",
+                        "background_color": "grey",
+                        "unit": "%",
+                        "isshow_ico": "1",
+                        "open_bigpic_url": "mobile/reportForm_reportOne.action",
+                        "chart_data": [
+                                       {
+                                       "code": "0",
+                                       "name": "比较分析",
+                                       "chart_type": "2",
+                                       "isshow_ico": "1",
+                                       "data": {
+                                       "xaxis": {
+                                       "label": " ",
+                                       "values": [
+                                                  "年初",
+                                                  "01-02"
+                                                  ],
+                                       "stroke_color": "#E52524",
+                                       "type": "0",
+                                       "show_type": "0"
+                                       },
+                                       "yaxis": {
+                                       "label": " ",
+                                       "type": "0",
+                                       "stroke_color": "#E52524"
+                                       },
+                                       "datas": [
+                                                 {
+                                                 "values": [
+                                                            0,
+                                                            0.8538675
+                                                            ],
+                                                 "name": "本期值",
+                                                 "stroke_color": "#1481C4"
+                                                 },
+                                                 {
+                                                 "values": [
+                                                            0,
+                                                            0.6012775
+                                                            ],
+                                                 "name": "同期值",
+                                                 "stroke_color": "#F09630"
+                                                 },
+                                                 {
+                                                 "values": [
+                                                            0,
+                                                            0.6012775
+                                                            ],
+                                                 "name": "同期值",
+                                                 "stroke_color": "#FFDF20"
+                                                 }
+
+                                            
+                                                 ]
+                                       }
+                                       }
+                                       ]
+                        }
+    }
+}

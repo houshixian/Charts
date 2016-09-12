@@ -1,0 +1,71 @@
+{
+    "result": {
+        "code": "0"
+    },
+    "data": {
+        "chart_datas": {
+                        "chart_name": "比较分析",
+                        "type": "0",
+                        "font_size": "6px",
+                        "font_style": "宋体",
+                        "font_color": "black",
+                        "background_color": "grey",
+                        "unit": "%",
+                        "isshow_ico": "4",
+                        "open_bigpic_url": "mobile/reportForm_reportOne.action",
+                        "chart_data": [
+                                       {
+                                       "code": "0",
+                                       "name": "比较分析",
+                                       "chart_type": "0",
+                                       "isshow_ico": "1",
+                                       "data": {
+                                       "xaxis": {
+                                       "label": " ",
+                                       "values": [
+                                                  "年初",
+                                                  "01-02"
+                                                  ],
+                                       "stroke_color": "#E52524",
+                                       "type": "0",
+                                       "show_type": "0"
+                                       },
+                                       "yaxis": {
+                                       "label": " ",
+                                       "type": "0",
+                                       "stroke_color": "#E52524"
+                                       },
+                                       "vice_yaxis": {
+                                       "label": "本期值",
+                                       "type": "1",
+                                       "stroke_color": "#1481C4"
+                                       },
+                                       "datas": [
+                                                 {
+                                                 "values": [
+                                                            0,
+                                                            0.8538675
+                                                            ],
+                                                 "name": "本期值",
+                                                 "stroke_color": "#F96D6E"
+                                                 }
+                                            
+                                                 ],
+                                       "vice_datas": [
+                                                      {
+                                                      "values": [
+                                                                 0.25,
+                                                                 0.3538675,
+                                                                 0.67,
+                                                                 0.78
+                                                                 ],
+                                                      "name": "本期值",
+                                                      "stroke_color": "#1481C4"
+                                                      }
+                                                      ]
+                                       }
+                                       }
+                                       ]
+                        }
+    }
+}

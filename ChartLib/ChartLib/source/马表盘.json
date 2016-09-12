@@ -1,0 +1,29 @@
+{
+"result": {
+"code": "0"
+},
+"data": {
+"chart_datas": {
+"chart_name": "数值展示",
+"type": "0",
+"unit": "%",
+"isshow_ico": "1",
+"chart_data": {
+"name": "",
+"chart_type": "9",
+"data": {
+"radius": "95",
+"inner_radius": "70",
+"origin_x": "240",
+"origin_y": "100",
+"minimum_value": "0.00",
+"maximum_value": "100.00",
+"start_angle": "135",
+"end_angle": "405",
+"value": "0.35",
+"value_label": "0.35%"
+}
+}
+}
+}
+}

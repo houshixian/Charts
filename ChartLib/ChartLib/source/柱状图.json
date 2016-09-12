@@ -1,0 +1,69 @@
+{
+    "result": {
+        "code": "0"
+    },
+    "data": {
+        "chart_datas": [
+            {
+                "chart_name": "本期值排名",
+                "type": "0",
+                "font_size": "6px",
+                "font_style": "宋体",
+                "font_color": "black",
+                "background_color": "grey",
+                "unit": "%",
+                "isshow_ico": "1",
+                "open_bigpic_url": "mobile/reportForm_reportOne.action",
+                "chart_data": [
+                    {
+                        "code": "0",
+                        "name": "排名分析",
+                        "chart_type": "3",
+                        "isshow_ico": "1",
+                        "data": {
+                            "xaxis": {
+                                "label": " ",
+                                "values": [
+                                    "长春汇总",
+                                    "四平汇总",
+                                    "松原汇总",
+                                    "辽源汇总",
+                                    "延边汇总",
+                                    "白山汇总",
+                                    "吉林汇总",
+                                    "白城汇总",
+                                    "通化汇总"
+                                ],
+                                "stroke_color": "#E52524",
+                                "type": "0",
+                                "show_type": "0"
+                            },
+                            "yaxis": {
+                                "label": " ",
+                                "type": "0",
+                                "stroke_color": "#E52524"
+                            },
+                            "datas": [
+                                {
+                                    "values": [
+                                        0.7687,
+                                        0.1422,
+                                        0.1129,
+                                        0.1013,
+                                        0.0448,
+                                        0.0205,
+                                        0.0045,
+                                        0.0029,
+                                        0.0011
+                                    ],
+                                    "name": "本期值",
+                                    "stroke_color": "#1481C4"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}
