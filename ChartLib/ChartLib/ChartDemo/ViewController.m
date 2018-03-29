@@ -2,8 +2,8 @@
 //  ViewController.m
 //  ChartLib
 //
-//  Created by BaHCy on 16/4/28.
-//  Copyright © 2016年 BaHCy. All rights reserved.
+//  Created by ChinaMonkey on 16/4/28.
+//  Copyright © 2016年 ChinaMonkey. All rights reserved.
 //
 
 #import "ViewController.h"

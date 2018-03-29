@@ -2,8 +2,8 @@
 //  StyleTwoViewController.m
 //  ChartLib
 //
-//  Created by BaHCy on 16/4/29.
-//  Copyright © 2016年 BaHCy. All rights reserved.
+//  Created by ChinaMonkey on 16/4/29.
+//  Copyright © 2016年 ChinaMonkey. All rights reserved.
 //  
 
 #import "StyleTwoViewController.h"

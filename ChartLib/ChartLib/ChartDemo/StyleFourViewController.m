@@ -2,8 +2,8 @@
 //  StyleFourViewController.m
 //  ChartLib
 //
-//  Created by BaHCy on 16/4/29.
-//  Copyright © 2016年 BaHCy. All rights reserved.
+//  Created by ChinaMonkey on 16/4/29.
+//  Copyright © 2016年 ChinaMonkey. All rights reserved.
 //
 
 #import "StyleFourViewController.h"
@@ -31,8 +31,6 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    
-    
     NSString *path = [[NSBundle mainBundle] pathForResource:@"source/柱状图" ofType:@"json"];
     NSDictionary *indicatorDics = [NSJSONSerialization JSONObjectWithData:[NSData dataWithContentsOfFile:path] options:0 error:nil];
     NSDictionary *dataDic = indicatorDics[@"data"];
